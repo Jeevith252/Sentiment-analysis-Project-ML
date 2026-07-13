@@ -1,0 +1,8 @@
+.venv/
+mlruns/
+results/
+sentiment_model/
+__pycache__/
+*.pyc
+*.tar
+sentiment-api.tar

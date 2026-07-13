@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+datasets
+pandas
+numpy
+scikit-learn
+boto3
+mlflow
+torch
+safetensors
