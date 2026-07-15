@@ -1,5 +1,5 @@
 
-# Sentiment Analysis using DistilBERT | FastAPI | Docker | AWS | MLflow
+# Sentiment Analysis using DistilBERT | FastAPI | Docker | AWS | MLflow.
 
 An end-to-end MLOps project that performs **Sentiment Analysis on customer reviews** using **DistilBERT**, tracks experiments with **MLflow**, stores models in **AWS S3**, and serves predictions through a **FastAPI REST API** deployed on **AWS EC2 using Docker**.
 
